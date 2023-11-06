@@ -1,4 +1,5 @@
 .btn {
     background-color: red;
     border          : 0ch;
+    border-style    : hidden;
 }
